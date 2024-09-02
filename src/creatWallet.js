@@ -1,4 +1,4 @@
-// importanto as dependencias
+// importanto as dependencias 
 
 const bip39 = require("bip39");
 const bip32 = require('bip32');
